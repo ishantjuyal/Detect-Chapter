@@ -48,7 +48,7 @@ As per the classification report, f1-score and precision score for some of the c
 
 ### Demo
 
-[image here]
+![image here](https://github.com/ishantjuyal/Solve/blob/main/Demo/solve_demo.png)
 
 ### Dataset Reference
 
