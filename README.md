@@ -9,8 +9,6 @@ The inputs required for this are:
 
 ### Dataset
 
-Content
-
 This particular dataset consists of questions/doubts raised by students preparing for exams mentioned above.
 The dataset contains 3 CSV files. The data is split randomly across these 3 CSV files.
 
