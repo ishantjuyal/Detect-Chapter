@@ -1,1 +1,1 @@
-# Detect-Chapter
+# Solve
