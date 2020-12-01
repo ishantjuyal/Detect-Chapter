@@ -15,8 +15,11 @@ The dataset contains 3 CSV files. The data is split randomly across these 3 CSV 
 Inside each CSV file, we have four columns:
 
 q_id: Questions id, unique for every question
+
 eng: The full question or description of the questions
+
 class: The question belongs to which class/grade in the Indian Education system.
+
 chapter: Target classes,
 
 So, it's basically an NLP problem where we have the question description and we need to find out which chapter does this question belongs to.
