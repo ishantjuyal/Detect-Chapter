@@ -9,16 +9,17 @@ The inputs required for this are:
 
 ### Dataset
 
-Content
-
 This particular dataset consists of questions/doubts raised by students preparing for exams mentioned above.
 The dataset contains 3 CSV files. The data is split randomly across these 3 CSV files.
 
 Inside each CSV file, we have four columns:
 
 q_id: Questions id, unique for every question
+
 eng: The full question or description of the questions
+
 class: The question belongs to which class/grade in the Indian Education system.
+
 chapter: Target classes,
 
 So, it's basically an NLP problem where we have the question description and we need to find out which chapter does this question belongs to.
@@ -48,7 +49,7 @@ As per the classification report, f1-score and precision score for some of the c
 
 ### Demo
 
-[image here]
+![image here](https://github.com/ishantjuyal/Solve/blob/main/Demo/solve_demo.png)
 
 ### Dataset Reference
 
